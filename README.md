@@ -7,4 +7,6 @@ ECN311E Uluslararası Ticaret dersi için tarayıcıda çalışan çalışma uyg
 - Geçen yılın vizesine göre hazırlanmış vize provası (İngilizce cevap kalıpları)
 - 40 soruluk deneme sınavı, hata tekrarı, formül kağıdı, hesaplayıcılar
 
+Canlı: https://oguney-cyber.github.io/ticaret-patikasi/
+
 iPad'de Safari ile açıp Paylaş → Ana Ekrana Ekle ile uygulama gibi kullanılabilir; internetsiz de çalışır.
