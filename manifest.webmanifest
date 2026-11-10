@@ -1,0 +1,16 @@
+{
+  "name": "Ticaret Patikası",
+  "short_name": "Ticaret",
+  "description": "Uluslararası ticaret teorisi vizesine hazırlık",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#EEF2F4",
+  "theme_color": "#0B6B8A",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
