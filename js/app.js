@@ -19,10 +19,17 @@
 
   /* ---------- durum ---------- */
   const KEY = 'ticaret-patikasi-v1';
-  const blank = () => ({ v: 1, xp: 0, days: {}, les: {}, q: {}, mist: {}, hist: {}, exams: [], run: null, set: { sound: true, tr: true, goal: 100, size: 'l', aidfx: true } });
+  const blank = () => ({ v: 1, xp: 0, days: {}, les: {}, q: {}, mist: {}, hist: {}, exams: [], run: null, set: { sound: true, tr: true, goal: 100, size: 'l', aidfx: true, theme: 'dark' } });
   let S = blank();
   try { const raw = localStorage.getItem(KEY); if (raw) S = Object.assign(blank(), JSON.parse(raw)); S.set = Object.assign(blank().set, S.set); } catch (e) { /* depolama yok */ }
-  const applySize = () => { document.documentElement.dataset.size = S.set.size || 'l'; };
+  // yazı boyutu ve tema: varsayılan koyu tema; "sistem" seçilirse cihazın ayarı geçerli
+  const applySize = () => {
+    const de = document.documentElement, th = S.set.theme || 'dark';
+    de.dataset.size = S.set.size || 'l';
+    if (th === 'system') delete de.dataset.theme; else de.dataset.theme = th;
+    const dark = th === 'dark' || (th === 'system' && window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches);
+    const mt = document.querySelector('meta[name="theme-color"]'); if (mt) mt.setAttribute('content', dark ? '#0E141C' : '#0B6B8A');
+  };
   applySize();
   let saveT = 0;
   function save() { S.t = Date.now(); clearTimeout(saveT); saveT = setTimeout(() => { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) { } }, 150); }
@@ -306,6 +313,7 @@
   function viewSettings() {
     return `<div class="view"><section class="hero"><div class="eyebrow">Ayarlar</div><h1>Ayarlar ve yedek</h1><p>İlerlemen bu cihazın tarayıcısında saklanır.</p></section>
       <section class="panel"><h3>Tercihler</h3>
+        <label class="switch" for="s-theme"><span>Tema</span><select id="s-theme" style="min-height:44px;border-radius:10px;border:2px solid var(--line);background:var(--surface);color:var(--ink);padding:0 10px">${[['dark', 'Koyu'], ['light', 'Açık'], ['system', 'Cihaza göre']].map(o => `<option value="${o[0]}" ${(S.set.theme || 'dark') === o[0] ? 'selected' : ''}>${o[1]}</option>`).join('')}</select></label>
         <label class="switch" for="s-size"><span>Yazı boyutu</span><select id="s-size" style="min-height:44px;border-radius:10px;border:2px solid var(--line);background:var(--surface);padding:0 10px">${[['m', 'Normal'], ['l', 'Büyük'], ['xl', 'Çok büyük']].map(o => `<option value="${o[0]}" ${S.set.size === o[0] ? 'selected' : ''}>${o[1]}</option>`).join('')}</select></label>
         <label class="switch" for="s-sound"><span>Doğru/yanlış sesi</span><input type="checkbox" id="s-sound" ${S.set.sound ? 'checked' : ''}></label>
         <label class="switch" for="s-tr"><span>Türkçe çeviriyi otomatik göster</span><input type="checkbox" id="s-tr" ${S.set.tr ? 'checked' : ''}></label>
@@ -375,6 +383,7 @@
     }
     if (r === 'ayarlar') {
       $('#s-size').onchange = (e) => { S.set.size = e.target.value; applySize(); save(); };
+      $('#s-theme').onchange = (e) => { S.set.theme = e.target.value; applySize(); save(); if (window.Ink && Ink.recolor) Ink.recolor(); };
       $('#s-sound').onchange = (e) => { S.set.sound = e.target.checked; save(); };
       $('#s-tr').onchange = (e) => { S.set.tr = e.target.checked; save(); };
       $('#s-goal').onchange = (e) => { S.set.goal = +e.target.value; save(); renderAside(); };

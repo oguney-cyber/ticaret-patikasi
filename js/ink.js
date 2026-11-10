@@ -542,7 +542,7 @@
   window.Ink = {
     init: (o) => { if (o && o.toast) toast = o.toast; },
     bind, unbind: () => bind(null), off: () => setOn(false), isOn: () => on && !!B,
-    clearPrefix, clearAll, count, flush,
+    clearPrefix, clearAll, count, flush, recolor: () => { readColors(); schedule(); },
     _state: () => ({ on, zoom, mode, key: B && B.key, n: B ? B.strokes.length : 0, ext: B ? B.ext : 0, pad: B ? B.pad.offsetHeight : 0, prefs: Object.assign({}, prefs) })
   };
 })();
