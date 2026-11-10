@@ -43,6 +43,23 @@ Azalan verim **bir girdiyi artırıp ötekini sabit tutunca** ortaya çıkar. B�
 ABD Aralık 1807 – Mart 1809 arasında Başkan Jefferson'ın isteğiyle ticareti neredeyse tamamen durdurdu (==ambargo==): GSYH ambargo olmasaydı olacağından yaklaşık %5 düşüktü. Japonya 1854'te 200 yıllık kendi kendine yeterlilikten (otarşi) dünyaya açıldı; kazanç tek taraflı değildi, ABD gibi ortaklar da kazandı.
 :::
 
+## CARD Ülkelere göre ticaretten kazanç
+Kitaptaki uygulama tablosu ülkelerin ticaret/GSYH oranını ve tahmin edilen ticaretten kazancı (otarşiye kıyasla gelir farkı, %) veriyor; son sütun aynı tahminin farklı varsayımlarla düzeltilmiş hâli. Seçilmiş satırlar:
+| Ülke | Ticaret/GSYH (%) | Ticaretten kazanç (%) | Düzeltilmiş kazanç (%) |
+| Malezya | 116 | 74 | 219 |
+| Macaristan | 81 | 87 | 166 |
+| İsviçre | 65 | 135 | 111 |
+| Almanya | 44 | 46 | 40 |
+| Çin | 33 | 13 | 30 |
+| Türkiye | 26 | 38 | 41 |
+| Hindistan | 25 | 14 | 21 |
+| Japonya | 16 | 26 | 21 |
+| ABD | 15 | 19 | 14 |
+| Brezilya | 14 | 10 | 10 |
+| Ortalama | 38 | 48 | 59 |
+• Kazançlar **büyük**: ortalama %48 (düzeltilmiş %59).
+• Ticarete açıklığı (ticaret/GSYH) yüksek küçük ekonomilerde kazanç genellikle daha büyük (Malezya, Macaristan); büyük ve görece kapalı ekonomilerde daha küçük (ABD, Brezilya, Hindistan). İlişki birebir değil (Çin 33'e karşı 13).
+
 ## Q
 SRC: Slayt clicker 3.1
 EN: In the specific-factors model, labor:
@@ -275,6 +292,29 @@ $P_M$ düşerse ya da $P_A$ artarsa sıralama tersine döner: sermaye kaybeder, 
 :::ipucu Sermaye rantı neden fiyattan hızlı artar?
 Sermaye hem yüksek imalat fiyatından hem de imalata gelen işçilerin artırdığı verimlilikten yararlanır.
 :::
+
+## Q
+SRC: Slayt clicker 3.3
+EN: According to the specific-factors model, labor resources in each country will _____ as a result of trade.
+TR: Özgül faktörler modelinde ticaret sonucu emek nereye kayar?
++ shift to the export industry
+- shift to the import industry
+- continue to have the same allocation among industries
+- emigrate to the other country
+HINT: Nispi fiyatı artan sektör daha çok öder.
+EX: **Doğru cevap:** ihracat sektörüne kayar.
+İhraç malının nispi fiyatı artar, $P\cdot MPL$ eğrisi yukarı kayar ve işçi çeker. Emek ülkeler arası hareket etmez.
+
+## Q
+EN: In the textbook's table on the gains from trade, which countries tend to have the largest estimated gains?
+TR: Kitaptaki tabloda en büyük ticaretten kazanç hangi ülkelerde?
++ small, open economies with high ratios of trade to GDP, such as Malaysia and Hungary
+- large economies with low trade ratios, such as the United States and Brazil
+- countries that do not trade at all
+- only countries in the European Union
+HINT: Malezya: ticaret/GSYH 116, kazanç 74.
+EX: **Doğru cevap:** ticaret/GSYH oranı yüksek küçük açık ekonomiler.
+ABD (15/19) ve Brezilya (14/10) gibi büyük, görece kapalı ekonomilerde kazanç küçük. Ortalama kazanç %48.
 
 ## Q
 SRC: Slayt clicker 3.4

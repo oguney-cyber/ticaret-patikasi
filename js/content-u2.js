@@ -8,7 +8,14 @@ FX: $\text{FM}(X) = \dfrac{MPL_Y}{MPL_X}$ :: X'in fırsat maliyeti, Y cinsinden
 FX: FM(X) ve FM(Y) birbirinin tersi :: 1 buğday = ½ kumaş ⇔ 1 kumaş = 2 buğday
 
 ## CARD Ülkeler neden ticaret yapar?
-Snowboard örneği: ABD 2018'de 19 ülkeden 28.5 milyon dolarlık snowboard aldı; en büyük satıcı Çin (12.7 milyon). Bunca üretim kapasitesine rağmen ABD neden kendi üretmiyor? Kitaptaki dört neden:
+Snowboard örneği (Tablo 2-1): ABD 2018'de 19 ülkeden 366,089 snowboard aldı, değeri 28.5 milyon dolar.
+| Ülke | İthalat (bin dolar) | Adet | Ortalama fiyat (dolar) |
+| Çin | 12,664 | 224,018 | 57 |
+| Avusturya | 6,940 | 53,318 | 130 |
+| Birleşik Arap Emirlikleri | 5,028 | 40,232 | 125 |
+| Tayvan | 2,547 | 36,393 | 70 |
+| Toplam (19 ülke) | 28,463 | 366,089 | 78 |
+Çin en çok ve en ucuza satıyor; Avusturya'nın tahtaları iki kattan pahalı (kalite farkı). Bunca üretim kapasitesine rağmen ABD neden kendi üretmiyor? Kitaptaki dört neden:
 • ==Teknoloji (technology)== farkı: ülkelerin mal üretme becerileri farklı. Bu bölümün konusu: ==Ricardo modeli==.
 • ==Kaynak (resources)== farkı: emek, sermaye, toprak miktarı. Bunlara ==üretim faktörleri (factors of production)== denir (Bölüm 4).
 • ==Offshoring== maliyetleri: parçaları farklı ülkelerde üretip birleştirmek.

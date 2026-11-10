@@ -368,6 +368,7 @@ FX: dikey FDI :: sanayi ülkesinden gelişmekte olan ülkeye, düşük ücret i�
 @fig fdi
 :::ornek American Factory
 2013'te Çinli Fuyao Glass, Ohio'da kapanmış bir General Motors fabrikasını aldı. Kâra geçmek için: ücretler GM dönemindekinden çok düşük, üretim hızı yüksek, sendikalaşma başarısız, bazı işler robotlara verildi.
+**Haber kutusu:** "Bütün Çin fabrikalarının American Factory'deki gibi olduğunu sanmayın." Yazar, ABD, Kanada ve Avrupa şirketlerinin sahip olduğu birçok fabrikanın da Fuyao'nun en kötü özelliklerini paylaştığını söylüyor. Çinli **BYD** ABD'de çevre dostu otobüs üreten bir fabrika açtı ve yerel işçilere yararlı iş sözünü tuttu. Ders: işçilere davranışta ve çevreyi korumada her şirket, nereli olursa olsun, iyi ya da kötü aktör olmayı seçebilir.
 :::
 **Sonuç (kitap):** Küreselleşme mal, hizmet, insan, firma, kültür ve finans akımı demek. Göç ticaret kadar serbest değil; her ülke göçü sınırlar. FDI yüksek gelirli ülkeler arasında büyük ölçüde serbest, gelişmekte olan ülkelerde bazen kısıtlı. Yüksek gelirli ülkeler arasında FDI ticaretten bile fazla; yüksek ve düşük gelirliler arasında ticaretten az.
 

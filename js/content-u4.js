@@ -137,6 +137,9 @@ Altı varsayım altında, bir ülke **bol olduğu faktörü yoğun kullanan mal�
 | Sermaye bol Home | bilgisayar | ayakkabı |
 | Emek bol Foreign | ayakkabı | bilgisayar |
 Üretim ve tüketim ayrı seçimler: daha çok bilgisayar üretmek daha çok bilgisayar tüketmek demek değil; ek üretim ihracata gidebilir.
+:::ipucu Bölüm 4 sonuç slaytındaki not
+Firmalar ==farklılaştırılmış ürünler (differentiated products)== üretiyor ve ==ölçeğe göre artan getiri (increasing returns to scale)== varsa, tam rekabetteki kazançların **ötesinde** ek ticaret kazancı olabilir (benzer ülkelerin çeşit ticareti; kitabın sonraki bölümleri). HO ve Ricardo tam rekabet varsayar.
+:::
 
 ## Q
 SRC: Slayt clicker 4.2
