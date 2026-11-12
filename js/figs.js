@@ -59,7 +59,7 @@
   function numline(items, o) {
     o = o || {}; const W = 520, H = o.h || 110, lo = o.lo, hi = o.hi, x = (v) => 30 + (v - lo) / (hi - lo) * (W - 60), y = 52;
     let s = AR(16, y, W - 10, y, 'ax', 8) + L(x(0), y - 8, x(0), y + 8, 'ax') + T(x(0), y + 26, '0', { a: 'middle', c: 'tk' });
-    items.forEach((it, k) => { s += CI(x(it[0]), y, 6, it[2] || 'pt') + T(x(it[0]), y - 16 - (k % 2) * 0, it[1], { a: 'middle', c: 'hd' }) + T(x(it[0]), y + 26, (it[0] > 0 ? '+' : '') + it[0] + '%', { a: 'middle', c: 'tk' }); });
+    items.forEach((it, k) => { s += CI(x(it[0]), y, 6, it[2] || 'pt') + T(x(it[0]), y - 16 - (k % 2) * 0, it[1], { a: 'middle', c: 'hd' }) + T(x(it[0]), y + 26, (it[0] > 0 ? '+' : '') + it[0] + '%', { a: 'middle', c: 'tk' }) + (it[3] ? T(x(it[0]), y + 44, it[3], { a: 'middle', c: 'lg' }) : ''); });
     if (o.cap) s += T(W / 2, H - 6, o.cap, { a: 'middle', c: 'lb' });
     return SVG(W, H, s);
   }
@@ -239,7 +239,7 @@
   F.pmrise = { t: 'Şekil 3-5 · İmalat fiyatı artar', n: 'P_M · MPL_M eğrisi yukarı kayar; denge A\'dan B\'ye. İşçiler tarımdan imalata geçer, ücret W\'den W′\'ye yükselir ama eğrinin kaydığı miktardan az: ΔW/W < ΔP_M/P_M. Ücret imalat malı cinsinden düşer, tarım malı cinsinden artar: işçinin durumu belirsiz.', svg: SVG(520, 320, shiftM(true)) };
   F.pmfall = { t: 'Şekil 3-9 · İmalat fiyatı düşer ("Çin şoku")', n: 'P_M · MPL_M aşağı kayar: imalat emeği azalır, tarım emeği artar, ücret W′\'ye düşer. Modelde işçiler hemen tarımda iş bulur; gerçekte Çin şokunda ihracat sektörlerinde yeterli iş açılması on yıldan uzun sürdü.', svg: SVG(520, 320, shiftM(false)) };
   F.sfrank = { t: 'İmalat fiyatı %10 artınca (kitaptaki sayılarla)', n: 'Toprak rantı −%5 < 0 < ücret +%5 < imalat fiyatı +%10 < sermaye rantı +%17.5. Sermaye iki mal cinsinden de kazanır, toprak iki mal cinsinden de kaybeder, işçinin durumu belirsiz.',
-    svg: numline([[-5, 'R_T', 'pt'], [5, 'W', 'pt'], [10, 'P_M', 'pt'], [17.5, 'R_K', 'pt']], { lo: -8, hi: 20 }) };
+    svg: numline([[-5, 'R_T', 'pt', 'toprak rantı'], [5, 'W', 'pt', 'ücret'], [10, 'P_M', 'pt', 'imalat fiyatı'], [17.5, 'R_K', 'pt', 'sermaye rantı']], { lo: -8, hi: 20, h: 130 }) };
 
   /* ======================= Bölüm 4: Heckscher–Ohlin ======================= */
   F.intensity = (() => {
@@ -303,7 +303,7 @@
   F.wrdet = (() => { const A = wr(false); return { t: 'Şekil 4-11 · Ücret/rant oranının belirlenmesi', n: 'Ekonomi geneli göreli emek talebi RD, iki sektör eğrisinin ortalamasıdır ve aralarında kalır. Göreli arz L/K dikey: toplam emek ve sermaye sabit. Kesişim A, W/R oranını belirler.', svg: SVG(A.W, A.H, A.s) }; })();
   F.wrshift = (() => { const A = wr(true); return { t: 'Şekil 4-13 · Bilgisayarın nispi fiyatı artınca', n: 'Üretim bilgisayara (sermaye yoğun) kayar; ekonomi geneli emek talebi RD₁\'den RD₂\'ye, bilgisayar eğrisine doğru kayar. W/R düşer. Emek görece ucuzladığı için İKİ sektör de sermaye başına daha çok emek kullanır (noktalar sağa kayar). Toplam L/K değişmez çünkü üretim bileşimi değişti.', svg: SVG(A.W, A.H, A.s) }; })();
   F.magnify = { t: 'Büyütme etkisi: bilgisayar fiyatı %10 artınca', n: 'Kitaptaki örnek (emek payı bilgisayarda %50, ayakkabıda %60): ücret −%40 < 0 < bilgisayar fiyatı +%10 < rant +%60. Mal fiyatı değişimi faktör getirilerinde büyüyerek görülür. İşçi iki mal cinsinden de kaybeder, sermaye iki mal cinsinden de kazanır.',
-    svg: numline([[-40, 'W', 'pt'], [10, 'P_C', 'pt'], [60, 'R', 'pt']], { lo: -50, hi: 70 }) };
+    svg: numline([[-40, 'W', 'pt', 'ücret'], [10, 'P_C', 'pt', 'bilgisayar fiyatı'], [60, 'R', 'pt', 'sermaye rantı']], { lo: -50, hi: 70, h: 130 }) };
 
   /* ======================= Bölüm 5: göç ve FDI ======================= */
   F.migsr = (() => {

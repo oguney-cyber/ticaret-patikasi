@@ -48,6 +48,7 @@ TR: Bir ülkenin dış ticaret dengesi nedir?
 HINT: Fazla verenler ihracatı ithalattan fazla olanlar.
 EX: **Doğru cevap:** ihracat değeri − ithalat değeri.
 Pozitifse fazla (Çin), negatifse açık (ABD). Tek bir ortakla hesaplanan fark **ikili** dış ticaret dengesidir; toplam ticaretin GSYH'ye oranı ise ticaret/GSYH oranı.
+**Diğer şıklar neden yanlış?** İthalat − ihracat ters işaret verir (fazlayı açık gösterir); toplam ÷ GSYH ticaret/GSYH oranı; tek ortakla fark **ikili** dış ticaret dengesi.
 
 ## Q
 EN: Which country is given in the textbook as an example of a country running a trade surplus?
@@ -59,6 +60,7 @@ TR: Kitapta dış ticaret fazlası veren ülke örneği hangisi?
 HINT: ABD'nin onunla ikili açığı 200 milyar doları aşıyor.
 EX: **Doğru cevap: China.**
 Çin ihracatı ithalatından fazla: fazla. ABD ithalatı ihracatından fazla: açık.
+**Diğer şıklar neden yanlış?** Kitap ABD'yi **açık** örneği olarak verir. Birleşik Krallık ve Meksika bu bağlamda örnek değil.
 
 ## Q
 EN: Using $(S_p - I) + (T - G) = EX - IM$: if households save less than firms invest and the government runs a budget deficit, then the trade balance must be:
@@ -70,6 +72,7 @@ TR: Özel tasarruf yatırımdan az ve devlet bütçe açığı veriyorsa dış t
 HINT: İki parantezin işareti de negatif.
 EX: **Doğru cevap:** açık (deficit).
 $S_p - I < 0$ ve $T - G < 0$ ise sol taraf negatif, yani $EX - IM < 0$. Kitabın mesajı: düşük tasarruf dış açığa yol açar.
+**Diğer şıklar neden yanlış?** İki parantez de negatif, toplamları negatif: fazla ya da sıfır olamaz; özdeşlik yönü kesin söyler.
 
 ## Q
 SRC: Slayt 1
@@ -82,6 +85,7 @@ TR: Telefon 227 dolarla gönderildi ama Çin'in katma değeri 8 dolardı. ABD'ye
 HINT: Gümrük sınırı geçen malın tüm değerini kaydeder.
 EX: **Doğru cevap:** yaklaşık 227 dolar.
 Brüt ihracat değerinin tamamı sayılır. 8 dolar katma değer, 219 dolar ithal parçalar, 650 dolar ABD'deki satış fiyatı.
+**Diğer şıklar neden yanlış?** 8 dolar Çin'in katma değeri, 219 dolar ithal parçalar, 650 dolar ABD'deki satış fiyatı. İstatistik sınırı geçen malın tamamını (227) yazar.
 
 ## Q
 EN: Producing the parts of a good in different countries and then assembling them into the finished product in a final location is called:
@@ -93,6 +97,7 @@ TR: Bir malın parçalarını farklı ülkelerde üretip son bir yerde birleşti
 HINT: Kitap bunu ticaretin dört nedeninden biri olarak sayar (Bölüm 2).
 EX: **Doğru cevap: offshoring.**
 Embargo ticaretin tamamen durdurulmasıdır. Yatay FDI sanayi ülkeleri arasındaki sahiplik ilişkisidir.
+**Diğer şıklar neden yanlış?** Embargo ticaretin durdurulması; yatay FDI sanayi ülkeleri arası sahiplik; gümrük birliği ortak dış tarifeli anlaşma.
 
 ## Q
 EN: People leaving a country to live elsewhere are called:
@@ -104,6 +109,7 @@ TR: Başka yerde yaşamak için ülkesinden ayrılan kişilere ne denir?
 HINT: Bakış açısı: ayrıldıkları ülke.
 EX: **Doğru cevap: emigrants.**
 Bir ülkeye yaşamak için girenler **immigrants**. Güvenliği tehlikede olduğu için ülkesinden kaçanlara **refugees** denir.
+**Diğer şıklar neden yanlış?** Immigrant bir ülkeye **gelen**; refugee güvenliği tehlikede olduğu için kaçan; "expatriate investor" kitapta bir göç kategorisi değil.
 
 ## GEN tradeBal
 ## GEN valueAdded
@@ -156,6 +162,7 @@ TR: Bugün ticaretin çoğu hangi mallarda?
 HINT: 1925 ile 2018 karşılaştırmasını düşün.
 EX: **Doğru cevap:** yüksek işlenmiş tüketim ve sermaye malları.
 Birinci Dünya Savaşı öncesinde standart mallar (ham madde, çelik) ağırdı. Bugün mallar üretim sırasında sınırları birkaç kez geçiyor.
+**Diğer şıklar neden yanlış?** Çelik gibi basit işlenmiş mallar, tarım ürünleri ve ham maddeler **Birinci Dünya Savaşı öncesinin** ticaretiydi. 1925'te ABD ithalatının %90'ı bunlardı, 2018'de %30.
 
 ## Q
 SRC: Slayt clicker 1.2
@@ -168,6 +175,7 @@ TR: Dolar cinsinden en büyük ticaret akımı nerede?
 HINT: 4.5 trilyon dolar, %21.
 EX: **Doğru cevap: Europe.**
 Avrupa içi ticaret en büyük akım: birbirine yakın çok ülke ve düşük tarifeler. Asya'nın toplam **ihracatı** %29 ama bu "içinde" ticaret değil, bölgeden çıkan ihracatın hepsi.
+**Diğer şıklar neden yanlış?** Asya'nın payı (%29) bölgeden çıkan bütün **ihracat**, bölge içi değil; Amerika içi %8; Afrika toplam %2.
 
 ## Q
 EN: Which countries tend to have the highest ratios of trade to GDP?
@@ -179,6 +187,7 @@ TR: Ticaret/GSYH oranı en yüksek ülkeler hangileri olma eğiliminde?
 HINT: ABD %16, Hong Kong %188.
 EX: **Doğru cevap:** küçük ekonomiler.
 Büyük ülkeler ticaretin çoğunu ülke içinde yapar. Hong Kong ve Singapur'un oranı %100'ü aşar.
+**Diğer şıklar neden yanlış?** Büyük ekonomilerin oranı düşük (ABD %16, Japonya %18); kitap oranı doğal kaynak ya da tarifeyle değil ülke büyüklüğüyle ilişkilendirir.
 
 ## Q
 EN: Approximately what share of world trade takes place within Europe plus trade between Europe and the United States?
@@ -190,6 +199,7 @@ TR: Avrupa içi ticaret ile Avrupa–ABD ticareti dünya ticaretinin yaklaşık 
 HINT: Tablo 1-1: 26%.
 EX: **Doğru cevap:** yaklaşık dörtte bir (%26).
 Yalnızca Avrupa içi %21. Bu, ticaretin büyük kısmının benzer sanayileşme düzeyindeki ülkeler arasında olduğunu gösterir.
+**Diğer şıklar neden yanlış?** Onda bir çok az, yarı ve dörtte üç çok fazla; Tablo 1-1'de Avrupa içi + ABD %26.
 
 ## Q
 EN: Africa accounts for about 20% of the Earth's land mass and 17% of its population. Its share of world exports is about:
@@ -201,6 +211,7 @@ TR: Afrika'nın dünya ihracatındaki payı yaklaşık ne kadar?
 HINT: Avustralya ve Yeni Zelanda kadar.
 EX: **Doğru cevap: %2.**
 %9 Orta Doğu ve Rusya, %29 Asya. Afrika'nın en yakın ticaret bağları Avrupa'yla.
+**Diğer şıklar neden yanlış?** %9 Orta Doğu ve Rusya, %17 Afrika'nın dünya nüfusundaki payı, %29 Asya'nın ihracatı.
 
 ## Q
 EN: How can countries that are similar in technology and resources still trade with each other, according to Chapter 1?
@@ -212,6 +223,7 @@ TR: Teknoloji ve kaynak bakımından benzer ülkeler neden yine de ticaret yapar
 HINT: Arabalar: Alman ve Fransız markaları.
 EX: **Doğru cevap:** farklı çeşitleri ticaret yaparlar.
 Ricardo ve Heckscher–Ohlin modelleri farklara dayanır. Benzer ülkeler arası ticareti ürün çeşitliliği açıklar (kitabın sonraki bölümleri).
+**Diğer şıklar neden yanlış?** Benzer ülkeler ticaret yapar (Avrupa içi ticaret en büyük akım); ticaret engelleri ticareti azaltır, açıklamaz; göç ve FDI ticaretin yerine geçen ayrı akımlar.
 
 ## Q
 EN: The United States' ratio of trade (average of exports and imports) to GDP in 2018 was about:
@@ -223,6 +235,7 @@ TR: ABD'nin 2018'de ticaret/GSYH oranı yaklaşık kaçtı?
 HINT: Tablodaki en düşüklerden biri.
 EX: **Doğru cevap: %16.**
 Türkiye %30, Almanya %44. ABD büyük olduğu için ticaretin çoğu ülke içinde.
+**Diğer şıklar neden yanlış?** %30 Türkiye, %44 Almanya; %100'ü aşanlar Hong Kong ve Singapur gibi küçük ekonomiler.
 
 ## GEN tradeGdp
 
@@ -277,6 +290,7 @@ TR: İthal mala vergi ___, ithal mala sayısal sınır ___.
 HINT: Sınır ithal mala konuyor.
 EX: **Doğru cevap:** tariff; import quota.
 İhracat kotası ihracatı sınırlar. Fransa 1930'larda ABD mallarına ithalat kotası uyguladı.
+**Diğer şıklar neden yanlış?** İhracat kotası ihracatı sınırlar, ithal mala değil; kota vergi değil miktar sınırıdır, sıralama ters olamaz.
 
 ## Q
 EN: The period from about 1890 until World War I is sometimes called the "first golden age" of trade mainly because:
@@ -288,6 +302,7 @@ TR: 1890–Birinci Dünya Savaşı dönemi neden "birinci altın çağ" sayılı
 HINT: WTO 1995, konteyner 1956.
 EX: **Doğru cevap:** buharlı gemi ve demiryolu gibi taşıma gelişmeleri.
 Konteyner ve GATT ikinci altın çağın (1950 sonrası) nedenleri.
+**Diğer şıklar neden yanlış?** WTO 1995'te, konteyner 1956'da: ikisi de **ikinci** altın çağın unsurları. Gümrük birlikleri o dönemin özelliği değil.
 
 ## Q
 EN: The Smoot–Hawley Tariff Act of 1930:
@@ -299,6 +314,7 @@ TR: 1930 Smoot–Hawley Tarife Yasası için hangisi doğru?
 HINT: Ortalama dünya tarifesi 1933'te %25.
 EX: **Doğru cevap:** tarifeleri artırdı, misillemeye ve ticaret savaşına yol açtı.
 Kanada yüksek tarifelerle, Fransa ithalat kotalarıyla karşılık verdi.
+**Diğer şıklar neden yanlış?** Smoot–Hawley tarifeleri **artırdı** (GATT 1947'de geldi); konteynerle ilgisi yok; yalnızca Çin'e tarife 2018–2019'da.
 
 ## Q
 EN: Which development is described as one of the most significant, yet least noticed, economic developments that slashed the cost of transporting goods and made the boom in global trade possible?
@@ -311,6 +327,7 @@ SRC: Vize 2025 · Soru 7
 HINT: 1956'da icat edildi.
 EX: **Doğru cevap: containerization.**
 Konteyner malların gemi, tren ve kamyon arasında yeniden yüklenmeden ucuzca taşınmasını sağladı; ikinci altın çağın nedenlerinden.
+**Diğer şıklar neden yanlış?** Smoot–Hawley ve ticaret savaşı ticareti **azalttı**; telgraf iletişim teknolojisi, taşıma maliyetini düşüren konteyner.
 
 ## Q
 SRC: Vize 2025 · Soru 7
@@ -323,6 +340,7 @@ TR: Değerin ülkeler arasında nerede ve nasıl yaratılıp kimin eline geçti�
 HINT: Tedarik zinciri lojistiğe, bu kavram değere odaklanır.
 EX: **Doğru cevap:** global value chains (küresel değer zincirleri).
 **Global supply chains** lojistik sırayı (taşıma, koordinasyon, fiziksel akış) anlatır. Değer zinciri ise katma değerin, kârın ve gücün dağılımını.
+**Diğer şıklar neden yanlış?** Tedarik zinciri lojistik akışı anlatır (sorudaki karşıtlık); ikili denge ve gümrük birliği değer dağılımıyla ilgili değil.
 
 ## Q
 EN: The U.S. tariffs on China in 2018–2019 were different from those imposed by other modern U.S. presidents because they:
@@ -334,6 +352,7 @@ TR: 2018–2019 ABD tarifeleri önceki başkanlarınkinden neden farklıydı?
 HINT: Ortalama %3.1'den %21'e.
 EX: **Doğru cevap:** yalnızca Çin'e ve yüksek düzeyde uygulandı.
 Çin de misilleme yaptı; ortalama tarifesi %8'den %21.8'e çıktı.
+**Diğer şıklar neden yanlış?** Tarifeler herkese değil yalnızca Çin'e uygulandı; düşük değil yüksek (%21'e kadar); WTO müzakeresiyle değil tek taraflı kondu.
 
 ## Q
 EN: When did most industrial countries return to the level of trade relative to GDP that prevailed in 1913?
@@ -345,6 +364,8 @@ TR: Sanayi ülkelerinin çoğu 1913'teki ticaret/GSYH düzeyine ne zaman döndü
 HINT: Savaşlar ve Büyük Buhran uzun bir kesinti yarattı.
 EX: **Doğru cevap:** 1970'lerde.
 Bu, küreselleşmenin yeni bir olgu olmadığını gösterir.
+**Diğer şıklar neden yanlış?** 1920'ler ve savaş hemen sonrası korumacılık dönemiydi; 2008 sonrası ise oran zaten yüksekti. Kitap: 1913 düzeyine 1970'lerde dönüldü.
+
 
 --- LESSON u1d | MIG | Göç ve doğrudan yabancı yatırım
 FX: göç oklarının çoğu tek yönlü :: düşük gelirli → yüksek gelirli ülke
@@ -383,6 +404,7 @@ TR: Göçmenler genellikle hangi ülkeleri seçer?
 HINT: Göç okları çoğunlukla tek yönlü.
 EX: **Doğru cevap: high-income.**
 Göçün çoğu gelişmekte olan ülkelerden, mümkün olduğunda zengin sanayi ülkelerine.
+**Diğer şıklar neden yanlış?** Göç okları düşük gelirliden yüksek gelirliye gider; düşük ya da orta gelirli ülkeler ana varış yeri değil.
 
 ## Q
 SRC: Slayt clicker 1.5
@@ -395,6 +417,7 @@ TR: FDI'nın çoğu nerede gerçekleşir?
 HINT: Yatay FDI çoğunlukta.
 EX: **Doğru cevap:** sanayi ülkeleri arasında.
 Buna yatay FDI denir. Sanayi ülkesinden gelişmekte olan ülkeye giden dikey FDI'nın nedeni düşük ücretler.
+**Diğer şıklar neden yanlış?** Yüksek gelirliden düşük gelirliye giden dikey FDI azınlıkta; orta–düşük gelirli ve Afrika içi akımlar küçük.
 
 ## Q
 EN: A firm from an industrial country owns a plant in a developing country mainly to benefit from low wages. This is:
@@ -406,6 +429,7 @@ TR: Sanayi ülkesindeki firma düşük ücretler için gelişmekte olan ülkede 
 HINT: Yatay = benzer ülkeler arası.
 EX: **Doğru cevap:** dikey FDI (vertical FDI).
 Kitap: düşük ücretler, firmaların üretimi gelişmekte olan ülkelere kaydırmasının ana nedeni.
+**Diğer şıklar neden yanlış?** Yatay FDI sanayi ülkeleri arası; offshoring parçaların farklı yerlerde üretilmesi (sahiplik şart değil); mülteci akımı insanların göçü.
 
 ## Q
 EN: How does the map of migration differ from the map of international trade?
@@ -417,6 +441,7 @@ TR: Göç haritası ticaret haritasından nasıl farklı?
 HINT: Ülkeler hem ihraç hem ithal eder.
 EX: **Doğru cevap:** göç okları çoğunlukla tek yönlü, ticaret iki yönlü.
 Bu yüzden ticaret, göç edemeyen işçiler için göçün ikamesi olabilir.
+**Diğer şıklar neden yanlış?** Göç dolar olarak ölçülmez, ticaretten büyük değil; göç çoğunlukla düşük gelirliden yüksek gelirliye; OECD ile dünya arasında göç var (göçmenlerin %53'ü OECD'de).
 
 ## Q
 EN: According to Chapter 1, international trade in goods and services:
@@ -428,6 +453,7 @@ TR: Kitaba göre mal ve hizmet ticareti göçle nasıl ilişkili?
 HINT: İşçiler göç edemese de ne olur?
 EX: **Doğru cevap:** göçün ikamesi gibi çalışır.
 Göç ticaretten çok daha sıkı kısıtlanır; ticaret, işçilerin yerinde kalarak ihracat sektörlerinde daha yüksek gelir kazanmasını sağlar.
+**Diğer şıklar neden yanlış?** Ticaret zenginden yoksula göçü artırmaz; yaşam standardını etkiler (ihracat sektörlerinde iş); göç ticaretten **daha** sıkı kısıtlanır, tersi değil.
 
 ## Q
 EN: In 2017, what share of the foreign-born people worldwide lived in OECD countries?
@@ -439,6 +465,7 @@ TR: 2017'de dünyadaki göçmenlerin yüzde kaçı OECD ülkelerinde yaşıyordu
 HINT: %23 başka bir sayının cevabı.
 EX: **Doğru cevap:** yarıdan fazlası (%53).
 %23, OECD doğumlu olup başka ülkede yaşayanların payı.
+**Diğer şıklar neden yanlış?** %23 OECD doğumluların yurt dışında yaşama payı; %10 ve %90 kitapta yok.
 
 ## Q
 EN: Between high-income countries, the textbook finds that FDI is:
@@ -450,4 +477,6 @@ TR: Yüksek gelirli ülkeler arasında FDI ticarete göre nasıl?
 HINT: Anahtar nokta 9.
 EX: **Doğru cevap:** ticaretten bile büyük.
 Yüksek gelirli ile orta/düşük gelirli ülkeler arasında ise FDI ticaretten küçük.
+**Diğer şıklar neden yanlış?** Yüksek gelirliler arasında FDI büyük ölçüde serbest ve ticaretten büyük; dikey FDI yüksek–düşük gelirli arasında.
+
 `);

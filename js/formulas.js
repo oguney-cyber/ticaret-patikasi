@@ -1,4 +1,31 @@
 window.FORMULAS = String.raw`
+## Semboller: ne demek?
+| Sembol | Okunuşu | Anlamı |
+| $W$ (alt indis) / $C$ / $M$ / $A$ / $S$ | buğday / kumaş ya da bilgisayar / imalat / tarım / ayakkabı | alt indis hangi malı ya da sektörü kastettiğini söyler: $MPL_W$ buğdayda, $P_M$ imalatta |
+| $MPL$ | emeğin marjinal ürünü | bir işçi daha çalışınca üretimin ne kadar arttığı (Home'da 4 buğday) |
+| $MPK$, $MPT$ | sermayenin, toprağın marjinal ürünü | bir makine ya da bir dönüm daha eklenince üretimin artışı |
+| $L$, $K$, $T$ | emek, sermaye, toprak | işçi sayısı, makine miktarı, dönüm |
+| $\bar L$, $\bar K$ | L çizgi, K çizgi | ülkedeki **toplam** (sabit) emek ve sermaye |
+| $L_M$, $L_A$ | imalattaki, tarımdaki emek | $L_M + L_A = L$ |
+| $L/K$, $K/L$ | makine başına işçi, işçi başına makine | yoğunluk (sektör) ve bolluk (ülke) bu oranlarla ölçülür |
+| $P_W$, $P_C$, $P_M$, $P_A$ | fiyat | malın (lira cinsinden) fiyatı |
+| $P_W/P_C$ | buğdayın nispi fiyatı | 1 buğday kaç kumaş eder (Ricardo'da ½, ticarette ⅔) |
+| $W$ (tek başına) | ücret | bir işçinin bir dönemde kazandığı |
+| $R$, $R_K$ | sermaye rantı | bir makinenin bir dönemde sahibine kazandırdığı (makinenin kirası) |
+| $R_T$ | toprak rantı | bir dönüm toprağın bir dönemde sahibine kazandırdığı |
+| $W/R$ | ücret–rant oranı | işçi makineye göre ne kadar pahalı |
+| $W/P$, $R/P$ | reel ücret, reel rant | ücretle ya da rantla kaç birim mal alınabildiği |
+| $\Delta X$ | delta X | X'teki değişim (yeni − eski) |
+| $\Delta X / X$, $\hat X$ | X'in yüzde değişimi, X şapka | ücret 100'den 105'e: $\Delta W/W = \hat W = 5\%$ |
+| $X^*$ | X yıldız | Foreign'ın değeri: $MPL^*_W$ Foreign'da bir işçinin ürettiği buğday |
+| $a$, $a_W$ | birim emek gereksinimi | 1 birim mal için gereken emek, $1/MPL$ |
+| $a_C$ (Bölüm 4) | emek payı | bilgisayar satışının işçilere giden yüzdesi (%50) |
+| $U$, $U_1$, $U_2$ | fayda, kayıtsızlık eğrileri | yüksek numara daha yüksek memnuniyet |
+| A, B, C | otarşi, üretim, tüketim noktası | otarşi = ticaretsiz durum |
+| $(P_C/P_S)^A$, $(\cdot)^W$ | A üssü, W üssü | otarşi (autarky) fiyatı, dünya (world) fiyatı |
+| $S_p$, $I$, $T$, $G$ (Bölüm 1) | özel tasarruf, yatırım, vergi, kamu harcaması | $(S_p - I) + (T - G) = EX - IM$; burada $T$ vergi, toprak değil |
+| $i$, $d$ (Bölüm 5) | faiz, amortisman | $R/P = (P_K/P)(i + d)$ |
+
 ## Bölüm 1 · Küresel ticaret
 | Kavram | Özet |
 | Dış ticaret dengesi | ihracat − ithalat; > 0 fazla (Çin), < 0 açık (ABD) |

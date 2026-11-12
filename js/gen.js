@@ -341,8 +341,11 @@
         en: `Manufacturing: sales revenue ${rm}, payments to labor ${lm}, payments to capital ${rm - lm}. The price of manufactures rises by ${pm}%, the price of food is unchanged, and the wage rises by ${w}%. By how much does the rental on capital change?`,
         tr: `İmalat hasılatı ${rm}, emeğe ödeme ${lm}, sermayeye ${rm - lm}. İmalat fiyatı %${pm}, ücret %${w} artıyor. Sermaye rantı yüzde kaç değişir?`,
         opts: popt(ans, [pm - w, (pm * rm - w * lm) / rm, pm * rm / (rm - lm), -(w * lm) / (rm - lm)], 2),
-        ex: steps(['Formül', `$$\\frac{\\Delta R_K}{R_K} = \\frac{\\frac{\\Delta P_M}{P_M}\\cdot P_MQ_M - \\frac{\\Delta W}{W}\\cdot WL_M}{R_K K}$$`],
-          ['Sayıları koy', `$\\frac{${pm}\\%\\times ${rm} - ${w}\\%\\times ${lm}}{${rm - lm}} = \\frac{${pm * rm / 100} - ${g0(w * lm / 100)}}{${rm - lm}} = ${f(ans / 100, 4)}$, yani %${f(ans, 2)}.`],
+        ex: `**Semboller:** $R_K$ = sermaye rantı (bir makinenin sahibine kazandırdığı), $\\Delta R_K/R_K$ = onun yüzde değişimi.\n\n` + steps(
+          ['Satış ne kadar arttı?', `İmalat satışı %${pm} arttı: $${rm} \\to ${g0(rm * (1 + pm / 100))}$, yani **+${g0(pm * rm / 100)}**.`],
+          ['İşçilere ödenen ne kadar arttı?', `Ücret %${w} arttı: $${lm} \\to ${g0(lm * (1 + w / 100))}$, yani **+${g0(w * lm / 100)}**.`],
+          ['Makine sahiplerine kalan', `Önce $${rm} - ${lm} = ${rm - lm}$, şimdi $${g0(rm * (1 + pm / 100))} - ${g0(lm * (1 + w / 100))} = ${g0(rm - lm + pm * rm / 100 - w * lm / 100)}$. Değişim **${g0(pm * rm / 100 - w * lm / 100)}**.`],
+          ['Yüzdeye çevir', `$${g0(pm * rm / 100 - w * lm / 100)} / ${rm - lm} = ${f(ans / 100, 4)}$, yani **${ans < 0 ? '−%' + f(-ans, 2) : '+%' + f(ans, 2)}**. Kitabın formülü aynı şeyi yazar: $\\frac{${pm}\\%\\times ${rm} - ${w}\\%\\times ${lm}}{${rm - lm}}$.`],
           ['Yorum', `${ans > pm ? `Rant fiyattan (%${pm}) daha hızlı arttı: sermaye sahibi iki mal cinsinden de kazanır.` : 'Rant artışı fiyat artışını geçmedi; bu sayılar kitaptaki sıralamayla uyumsuz (ücret değişimi çok büyük).'}`])
           + `\n\nKitaptaki örnek: $(10\\% \\cdot 100 - 5\\% \\cdot 60)/40 = 17.5\\%$.`
       };
@@ -353,8 +356,11 @@
       en: `Agriculture: sales revenue ${ra}, payments to labor ${la}, payments to land ${ra - la}. The price of food is unchanged, the price of manufactures rises by ${pm}% and the wage rises by ${w}%. By how much does the rental on land change?`,
       tr: `Tarım hasılatı ${ra}, emeğe ödeme ${la}, toprağa ${ra - la}. Gıda fiyatı sabit, ücret %${w} artıyor. Toprak rantı yüzde kaç değişir?`,
       opts: popt(ans, [-w, w * la / (ra - la), -(w * la) / ra, -(pm * la) / (ra - la)], 2),
-      ex: steps(['Formül (gıda fiyatı sabit)', `$$\\frac{\\Delta R_T}{R_T} = -\\frac{\\Delta W}{W}\\cdot\\frac{WL_A}{R_T T}$$`],
-        ['Sayıları koy', `$-${w}\\%\\times\\frac{${la}}{${ra - la}} = ${f(ans, 2)}\\%$`],
+      ex: `**Semboller:** $R_T$ = toprak rantı (bir dönümün sahibine kazandırdığı), $\\Delta R_T/R_T$ = onun yüzde değişimi.\n\n` + steps(
+        ['Satış', `Gıda fiyatı değişmedi: tarım satışı ${ra}'de kalır.`],
+        ['İşçilere ödenen', `Ücret %${w} arttı: $${la} \\to ${g0(la * (1 + w / 100))}$, yani **+${g0(w * la / 100)}**.`],
+        ['Toprak sahiplerine kalan', `Önce $${ra} - ${la} = ${ra - la}$, şimdi $${ra} - ${g0(la * (1 + w / 100))} = ${g0(ra - la - w * la / 100)}$. Değişim **−${g0(w * la / 100)}**.`],
+        ['Yüzdeye çevir', `$-${g0(w * la / 100)} / ${ra - la} = ${f(ans / 100, 4)}$, yani **−%${f(-ans, 2)}**. Kitabın formülü: $-${w}\\%\\times\\frac{${la}}{${ra - la}}$.`],
         ['Yorum', `Toprak rantı düştü, gıda fiyatı değişmedi, imalat pahalandı: toprak sahibi **iki mal cinsinden de** kaybeder.`])
         + `\n\nKitaptaki örnek: $-5\\% \\times 50/50 = -5\\%$. Sıra: $\\hat R_T < 0 < \\hat W < \\hat P_M < \\hat R_K$.`
     };
@@ -451,10 +457,12 @@
       en: `Heckscher–Ohlin model. Labor receives ${ac}% of revenue in computers and ${as}% in shoes (the rest goes to capital). The price of computers rises by ${p}% and the price of shoes is unchanged. Using the textbook's first-order calculation, by how much does the ${askW ? 'wage' : 'rental on capital'} change?`,
       tr: `Bilgisayarda emek payı %${ac}, ayakkabıda %${as}. Bilgisayar fiyatı %${p} artıyor, ayakkabı fiyatı sabit. ${askW ? 'Ücret' : 'Sermaye rantı'} yüzde kaç değişir?`,
       opts: popt(askW ? W : Rr, askW ? [-W, Rr, -p, p * ac / 100] : [-Rr, -W, p, p * (100 - ac) / 100], 1),
-      ex: steps(['İki maliyet denklemi', `Bilgisayar: $${p} = ${ac / 100}\\hat W + ${f(1 - ac / 100, 2)}\\hat R$\nAyakkabı: $0 = ${as / 100}\\hat W + ${f(1 - as / 100, 2)}\\hat R$`],
-        ['Ayakkabıdan R\'yi çek', `$\\hat R = -\\frac{${as}}{${100 - as}}\\hat W$`],
-        ['Yerine koy', `$${p} = \\hat W\\left(${ac / 100} - ${f(1 - ac / 100, 2)}\\cdot\\frac{${as}}{${100 - as}}\\right) = \\hat W\\cdot\\frac{${ac} - ${as}}{${100 - as}}$ ⇒ $\\hat W = ${f(W, 1)}\\%$`],
-        ['Rant', `$\\hat R = -\\frac{${as}}{${100 - as}}\\times(${f(W, 1)}) = ${f(Rr, 1)}\\%$`])
+      ex: `**Semboller:** $\\hat W$ = ücretin yüzde değişimi, $\\hat R$ = sermaye rantının yüzde değişimi (şapka = yüzde değişim; aşağıda ondalık yazıyoruz, 0.1 = %10). Her sektörün satışı 100 olsun.\n\n` + steps(
+        ['Ayakkabı: satış değişmedi', `Ayakkabı satışı 100: işçilere ${as}, makine sahiplerine ${100 - as} gidiyor. Satış aynı kaldığına göre iki payın değişimlerinin toplamı sıfır:\n$${as}\\hat W + ${100 - as}\\hat R = 0 \\Rightarrow \\hat R = -\\tfrac{${as}}{${100 - as}}\\hat W$`],
+        ['Bilgisayar: satış ' + p + ' arttı', `Bilgisayar satışı 100 iken ${p} arttı (yeni satış ${100 + p}). Bu artış işçilere (pay ${ac}) ve makine sahiplerine (pay ${100 - ac}) dağılır:\n$${ac}\\hat W + ${100 - ac}\\hat R = ${p}$`],
+        ['Yerine koy', `$${ac}\\hat W - ${100 - ac}\\cdot\\tfrac{${as}}{${100 - as}}\\hat W = ${p} \\Rightarrow \\hat W = ${f(W / 100, 3)}$, yani **ücret ${W < 0 ? '−%' + f(-W, 1) : '+%' + f(W, 1)}**.`],
+        ['Rant', `$\\hat R = -\\tfrac{${as}}{${100 - as}}\\times(${f(W / 100, 3)}) = ${f(Rr / 100, 3)}$, yani **rant ${Rr < 0 ? '−%' + f(-Rr, 1) : '+%' + f(Rr, 1)}**.`],
+        ['Kontrol', `Ayakkabı: $${as}\\times(${f(W / 100, 3)}) + ${100 - as}\\times${f(Rr / 100, 3)} \\approx 0$; bilgisayar: $${ac}\\times(${f(W / 100, 3)}) + ${100 - ac}\\times${f(Rr / 100, 3)} \\approx ${p}$.`])
         + `\n\nBüyütme etkisi: $\\hat W = ${f(W, 1)}\\% < 0 < \\hat P_C = ${p}\\% < \\hat R = ${f(Rr, 1)}\\%$. Kitaptaki örnek (%50, %60, %10): ücret −40%, rant +60%.`
     };
   };

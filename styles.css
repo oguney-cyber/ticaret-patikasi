@@ -567,3 +567,10 @@ ol.steps, ul.steps { display: grid; gap: 8px; margin: 0; padding-left: 1.3em; co
 .fig .tw { fill: var(--pen-ink); font-weight: 700; }
 .fig .b3 { fill: var(--ok); }
 .fig .ptp { fill: var(--pen); stroke: var(--surface); stroke-width: 2; }
+/* Telefonda geniş tablo ve uzun formüller sayfayı yana kaydırmasın: ızgara öğeleri daralabilsin, uzun satır kendi içinde kaysın */
+.view > *, .panel > *, .prose > *, .p-inner > * { min-width: 0; }
+.panel > p, .prose > p { overflow-x: auto; overflow-y: hidden; }
+/* KaTeX'in gizli MathML katmanı mutlak konumlu; kaydırma kutusunun içinde kalsın diye kutu konumlandırılır */
+.tbl, .panel > p, .prose > p { position: relative; }
+/* Konu kartı ve formül kağıdındaki tablolarda uzun açıklamalar alt satıra geçsin */
+.prose .tbl th, .prose .tbl td { white-space: normal; min-width: 4.5em; vertical-align: top; }

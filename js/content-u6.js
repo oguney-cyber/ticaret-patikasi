@@ -50,6 +50,7 @@ TR: Ticaret sisteminde çok taraflılık ne demek?
 HINT: Ortak kurallar.
 EX: **Doğru cevap:** WTO üyeliği genelinde uygulanan ortak kurallarla işbirliği.
 Seçilmiş ortakların birbirine tercih tanıması bölgeselcilik.
+**Diğer şıklar neden yanlış?** Seçilmiş ortaklara tercih bölgeselcilik; iki ülkenin anlaşması ikili (bilateral); kuralsız tarife çok taraflılığın tersi.
 
 ## Q
 EN: Which agreement established the WTO, and when did the WTO begin work?
@@ -61,6 +62,7 @@ TR: WTO'yu hangi anlaşma kurdu ve ne zaman çalışmaya başladı?
 HINT: Uruguay Turu'nun sonucu.
 EX: **Doğru cevap:** 1994 Marakeş Anlaşması; 1 Ocak 1995.
 GATT 1947'de imzalandı, 1948'den geçici uygulandı. Doha 2001'de başladı ama kapsamlı sonuç vermedi.
+**Diğer şıklar neden yanlış?** GATT 1947'de imzalandı ama WTO değil; Kennedy Turu tarife indirimi; Doha 2001'de başladı, sonuçlanmadı.
 
 ## Q
 EN: Which GATT round broadened coverage and created the WTO?
@@ -72,6 +74,7 @@ TR: Hangi GATT turu kapsamı genişletip WTO'yu kurdu?
 HINT: Kennedy tarifeler, Tokyo tarife dışı engeller.
 EX: **Doğru cevap:** Uruguay Turu.
 Kennedy: tarife indirimi ve anti-damping kodu. Tokyo: tarife dışı engeller.
+**Diğer şıklar neden yanlış?** Kennedy tarife ve anti-damping kodu, Tokyo tarife dışı engeller; Doha kapsamlı sonuç vermedi.
 
 ## Q
 EN: WTO members normally negotiate by consensus, which means:
@@ -83,6 +86,7 @@ TR: WTO'da uzlaşmayla (consensus) karar almak ne demek?
 HINT: Herkesin oyu değil, itiraz olmaması.
 EX: **Doğru cevap:** orada bulunan hiçbir üye resmen itiraz etmez.
 WTO anlaşmalarında oylama usulleri de var ama normal yöntem uzlaşma.
+**Diğer şıklar neden yanlış?** Uzlaşma oy çokluğu değildir; büyük üyeler ya da Sekretarya karar vermez (Sekretarya yalnızca teknik destek).
 
 ## Q
 EN: Which GATS mode of supply covers studying abroad?
@@ -94,6 +98,7 @@ TR: Yurt dışında okumak GATS'ın hangi sunum biçimi?
 HINT: Tüketici hizmeti almak için yurt dışına gidiyor.
 EX: **Doğru cevap:** yurt dışında tüketim.
 Sınır ötesi sunum: hizmet sınırı geçer (örneğin internetten). Ticari varlık: yurt dışında şube. Gerçek kişilerin varlığı: hizmet sunan kişi geçici olarak gider.
+**Diğer şıklar neden yanlış?** Sınır ötesi sunum: hizmet sınırı geçer (internetten ders). Ticari varlık: yurt dışında şube. Gerçek kişilerin varlığı: hizmeti veren kişi gider. Öğrenci gidiyorsa **yurt dışında tüketim**.
 
 ## Q
 EN: In 2026 the WTO reports how many members, covering what share of world trade?
@@ -105,6 +110,7 @@ TR: 2026'da WTO kaç üyeye ve dünya ticaretinin ne kadarına sahip?
 HINT: %72 başka bir istatistik.
 EX: **Doğru cevap:** 166 üye, %98.
 %72: mal ticaretinin temel MFN tarifeleriyle yapılan payı (WTO 2026 tahmini). 23: GATT'ı 1947'de imzalayan hükümet sayısı.
+**Diğer şıklar neden yanlış?** 23 GATT'ı 1947'de imzalayan hükümet sayısı; %72 temel MFN tarifeleriyle yapılan mal ticaretinin payı; 195 kitapta yok.
 
 ## Q
 EN: Why might reciprocal tariff reductions be politically easier than unilateral reductions?
@@ -116,6 +122,8 @@ TR: Karşılıklı tarife indirimi neden tek taraflıdan siyasi olarak kolay?
 HINT: Ders notundaki kendini sınama sorusu.
 EX: **Doğru cevap:** dış pazara girmeyi bekleyen ihracatçılar reformu destekler.
 Karşılıklılık eşit tarife ya da dengeli ikili ticaret şartı koymaz.
+**Diğer şıklar neden yanlış?** Tek taraflı indirim yasak değil; karşılıklılık dengeli ikili ticaret şartı koymaz; ithalata rakip üreticiler indirime genellikle **karşı** çıkar.
+
 
 --- LESSON u6b | MFN | WTO ilkeleri
 FX: MFN :: yabancı tedarikçiler BİRBİRİNE göre eşit
@@ -160,6 +168,7 @@ TR: Japon arabalarına %5, aynı Kore arabalarına %10 tarife. Bu hangi sorunu d
 HINT: Yabancılar birbirine göre ayrımcılığa uğruyor.
 EX: **Doğru cevap:** MFN sorunu.
 Bir üyeye tanınan %5, izinli istisna yoksa ötekilere de uygulanmalı.
+**Diğer şıklar neden yanlış?** Ulusal muamele ithal–yerli karşılaştırması (burada iki yabancı ülke); tarife serbest değil, herkese eşit olmalı; şeffaflık bildirimle ilgili.
 
 ## Q
 EN: Would a higher internal sales tax on imported shoes than on identical domestic shoes raise an MFN or a national-treatment issue?
@@ -171,6 +180,7 @@ TR: İthal ayakkabıya yerliden yüksek iç satış vergisi hangi ilkeyi ihlal e
 HINT: Ders notundaki kendini sınama sorusu.
 EX: **Doğru cevap:** ulusal muamele.
 İthal mal içeri girdikten sonra yerli mala göre ayrımcılığa uğruyor.
+**Diğer şıklar neden yanlış?** MFN yabancılar arası; bağlı tarife sınırdaki vergi tavanı; iç vergiler ulusal muamele kapsamında.
 
 ## Q
 EN: Does charging a customs duty at the border on imported goods by itself violate national treatment?
@@ -182,6 +192,7 @@ TR: Sınırda gümrük vergisi almak tek başına ulusal muameleyi ihlal eder mi
 HINT: Ulusal muamele ithalattan sonrasını kapsar.
 EX: **Doğru cevap:** Hayır.
 Gümrük vergisi bağlı tarife ve MFN kurallarına tabi; ulusal muamele iç vergi ve düzenlemelerle ilgili.
+**Diğer şıklar neden yanlış?** Gümrük vergisi her zaman ihlal değil; %5 gibi bir eşik yok; mallar için de geçerli bir ayrım.
 
 ## Q
 EN: A member's bound tariff on a product is 15% and its applied tariff is 8%. If it raises the applied tariff to 12%:
@@ -193,6 +204,7 @@ TR: Bağlı tarife %15, uygulanan %8. Uygulanan %12'ye çıkarılırsa ne olur?
 HINT: Bağlı tarife tavandır.
 EX: **Doğru cevap:** tavanın içinde kalır.
 Tavanın üstüne (örneğin %16) çıkmak taahhüdü bozar.
+**Diğer şıklar neden yanlış?** 12 < 15, tavanın altında; ulusal muamele iç vergilerle ilgili; Temyiz Organı uyuşmazlıklara bakar, tarife onaylamaz.
 
 ## Q
 EN: Reciprocity in WTO negotiations:
@@ -204,6 +216,7 @@ TR: WTO müzakerelerinde karşılıklılık ne demektir?
 HINT: Ders notu: karşılıklılık neyi gerektirmez?
 EX: **Doğru cevap:** taviz değişimini destekler ama aynı tarife ya da dengeli ikili ticaret şartı yok.
 Gelişmekte olan üyelerden eşdeğer taahhüt de beklenmez (özel ve farklı muamele).
+**Diğer şıklar neden yanlış?** Karşılıklılık aynı tarife, dengeli ikili ticaret ya da gelişmekte olan ülkelerden eşdeğer taahhüt gerektirmez (ders notu bunu açıkça söyler).
 
 ## Q
 EN: In WTO rules, dumping refers to:
@@ -215,6 +228,7 @@ TR: WTO kurallarında damping nedir?
 HINT: Anti-damping vergisi için damping, zarar ve nedensellik gerekir.
 EX: **Doğru cevap:** normal değerin altında ihraç fiyatı; yıkıcı niyet şart değil.
 Sübvansiyonlu ithalata karşı telafi edici vergi; ani ithalat artışına karşı korunma önlemi.
+**Diğer şıklar neden yanlış?** İhracat sübvansiyonu telafi edici vergi konusu; ani ithalat artışı korunma önlemi konusu; yurt dışında **pahalı** satmak damping değil.
 
 ## Q
 EN: Trade Policy Reviews at the WTO:
@@ -226,6 +240,7 @@ TR: WTO Ticaret Politikası İncelemeleri ne yapar?
 HINT: Şeffaflık aracı.
 EX: **Doğru cevap:** politikaları görünür kılar ama bağlayıcı yasadışılık kararı vermez.
 Bağlayıcı kararlar uyuşmazlık çözümünden çıkar.
+**Diğer şıklar neden yanlış?** İncelemeler yaptırım koymaz, tarife belirlemez, uyuşmazlık çözümünün yerini almaz; yalnızca şeffaflık sağlar.
 
 ## GEN wtoCase
 
@@ -266,6 +281,7 @@ TR: GATT'ta kaybeden taraf raporu engelleyebiliyordu. WTO'da durum ne?
 HINT: Negatif uzlaşma.
 EX: **Doğru cevap:** bütün üyeler reddetmedikçe rapor kabul edilir.
 Temyiz başvurusu, panel raporunun kabulünü inceleme bitene kadar askıya alır.
+**Diğer şıklar neden yanlış?** "Herkes kabul ederse" pozitif uzlaşma olurdu; oylama yok; engelleme GATT dönemine aitti.
 
 ## Q
 EN: In WTO dispute settlement, consultations normally allow how long for settlement before a panel can be requested?
@@ -277,6 +293,7 @@ TR: Panelden önce istişare için normalde ne kadar süre tanınır?
 HINT: DSU'nun ilk adımı.
 EX: **Doğru cevap:** 60 gün.
 Sonra bağımsız panel, temyiz, kabul ve uyum.
+**Diğer şıklar neden yanlış?** DSU'daki normal süre 60 gün; 10 gün, 1 yıl, 5 yıl kitapta yok.
 
 ## Q
 EN: If a respondent does not comply with an adopted WTO report, the complaining member may obtain:
@@ -288,6 +305,7 @@ TR: Davalı kabul edilen rapora uymazsa şikâyetçi ne elde edebilir?
 HINT: Misilleme geçici bir uyum aracı.
 EX: **Doğru cevap:** müzakere edilmiş tazminat ya da izinli misilleme.
 Misilleme geriye dönük tazminat değildir; küçük üyeler için maliyetli olabilir.
+**Diğer şıklar neden yanlış?** Misilleme geçmiş zararları tazmin etmez (geriye dönük değil); WTO'dan çıkarma yok; tarifeler otomatik kalkmaz.
 
 ## Q
 EN: Since December 2019, the WTO Appellate Body:
@@ -299,6 +317,7 @@ TR: Aralık 2019'dan beri Temyiz Organı'nın durumu ne?
 HINT: "Appeal into the void".
 EX: **Doğru cevap:** ABD'nin atamalara karşı çıkması yüzünden temyiz görecek üyesi yok.
 Bazı üyeler DSU Madde 25 kapsamında MPIA'yı kullanıyor.
+**Diğer şıklar neden yanlış?** Genel Konsey onun yerine geçmedi; 60 gün istişare süresi; Marakeş Anlaşması Temyiz Organı'nı **kurdu**, kaldırmadı.
 
 ## Q
 EN: In the US–Shrimp dispute (DS58, 1998), the central lesson was that:
@@ -310,6 +329,7 @@ TR: ABD Karides davasının ana dersi neydi?
 HINT: Madde XX: amaç meşru olabilir, uygulama önemli.
 EX: **Doğru cevap:** koruma amacı istisnaya girebilirdi ama keyfî ayrımcılık önlemi geçersiz kıldı.
 İhracat kısıtlamaları Çin Nadir Toprak davası, Brezilya sübvansiyon itirazı ABD Kütlü Pamuk davası.
+**Diğer şıklar neden yanlış?** Davada çevre amacı meşru sayıldı ("asla" yanlış); ihracat kısıtlaması Çin Nadir Toprak davası; sübvansiyon itirazı Brezilya'nın Kütlü Pamuk davası.
 
 ## Q
 EN: The Multi-Party Interim Appeal Arbitration Arrangement (MPIA):
@@ -321,6 +341,7 @@ TR: MPIA nedir?
 HINT: Temyiz Organı boşluğuna çözüm.
 EX: **Doğru cevap:** DSU Madde 25 kapsamında, yalnızca rıza gösteren katılımcılar arasında temyiz alternatifi.
 Bütün üyeleri bağlamaz.
+**Diğer şıklar neden yanlış?** MPIA bütün üyeler için değil, yalnızca katılımcılar için; bölgesel anlaşma değil; Ticaret Politikası İncelemesi ayrı bir mekanizma.
 
 ## Q
 EN: In the China–Rare Earths dispute (DS431, 2014):
@@ -332,6 +353,8 @@ TR: Çin Nadir Toprak Elementleri davasında ne oldu?
 HINT: İhracat kısıtlaması.
 EX: **Doğru cevap:** ihracat kısıtlamaları taahhütleri ihlal etti; koruma gerekçesi haklı çıkarmadı.
 Temyiz Organı krizi 2019'da başladı.
+**Diğer şıklar neden yanlış?** Çin kaybetti (koruma gerekçesi kabul edilmedi); dava ABD sübvansiyonuyla ilgili değil; 2014'te Temyiz Organı çalışıyordu.
+
 
 --- LESSON u6d | RTA | Bölgeselcilik ve entegrasyon türleri
 FX: GATT Madde XXIV :: mallarda STA ve gümrük birliği; iç ticaretin "esasen tamamı" serbest
@@ -397,6 +420,7 @@ TR: MFN ayrımcılığı yasakladığı hâlde RTA nasıl yasal olabilir?
 HINT: Ders notunun ilk kendini sınama sorusu.
 EX: **Doğru cevap:** koşullu istisna: mallarda Madde XXIV, iç ticaretin esasen tamamı serbestleşmeli.
 Hizmetler için GATS Madde V, gelişmekte olan ülkeler için Yetkilendirme Şartı.
+**Diğer şıklar neden yanlış?** RTA'lar koşullarla yasal; MFN mallarda da geçerli; RTA bütün üyeleri kapsamaz (o çok taraflılık olurdu).
 
 ## Q
 EN: What distinguishes a customs union from a free trade area?
@@ -408,6 +432,7 @@ TR: Gümrük birliğini serbest ticaret alanından ayıran nedir?
 HINT: Bir basamak fark.
 EX: **Doğru cevap:** gümrük birliğinde ortak dış tarife var.
 Emek ve sermayenin serbest dolaşımı ortak pazar; ortak para parasal birlik.
+**Diğer şıklar neden yanlış?** Emek ve sermaye serbestliği ortak pazarın özelliği; ortak para parasal birliğin; iki biçimde de iç tarifeler kalkar.
 
 ## Q
 EN: Rules of origin in a free trade area are needed mainly to:
@@ -419,6 +444,7 @@ TR: STA'da menşe kuralları neden gerekir?
 HINT: Dış tarifeler farklı.
 EX: **Doğru cevap:** ticaret sapmasını önlemek.
 Gümrük birliğinde ortak dış tarife bu sorunu azaltır.
+**Diğer şıklar neden yanlış?** STA'da ortak dış tarife yok (o gümrük birliği); işçi serbestliği ortak pazar; iç vergiler menşe kuralının konusu değil.
 
 ## Q
 EN: A common market goes beyond a customs union by adding:
@@ -430,6 +456,7 @@ TR: Ortak pazar gümrük birliğine ne ekler?
 HINT: Basamaklar.
 EX: **Doğru cevap:** emek ve sermayenin serbest dolaşımı.
 Ortak para parasal birlik, ortak siyasi otorite siyasi birlik.
+**Diğer şıklar neden yanlış?** Ortak para parasal birlik, ortak siyasi otorite siyasi birlik, seçilmiş ürünlerde indirim kısmi tercih (en alt basamak).
 
 ## Q
 EN: Which of the following is NOT covered by the EU–Türkiye Customs Union?
@@ -441,6 +468,7 @@ TR: AB–Türkiye Gümrük Birliği neyi kapsamaz?
 HINT: 1996'dan beri; kapsam sanayi malları.
 EX: **Doğru cevap:** hizmetler ve kamu alımları.
 Temel tarım ürünleri, kömür ve çelik ayrı düzenlemelere tabi.
+**Diğer şıklar neden yanlış?** Sanayi mallarının çoğu, işlenmiş tarım ürünlerinin sanayi bileşenleri ve bu mallarda ortak dış tarife gümrük birliğinin **kapsamında**.
 
 ## Q
 EN: Which is an example of a free trade area rather than a customs union?
@@ -452,6 +480,7 @@ TR: Hangisi gümrük birliği değil, serbest ticaret alanı örneği?
 HINT: Üyeler kendi dış tarifelerini belirler.
 EX: **Doğru cevap:** USMCA.
 EFTA da STA. AB ve SACU gümrük birliği.
+**Diğer şıklar neden yanlış?** AB, SACU ve AB–Türkiye ortak dış tarife uygular: gümrük birliği.
 
 ## Q
 EN: Abolishing internal tariffs, quotas and discriminatory licensing requirements is an example of:
@@ -463,6 +492,7 @@ TR: İç tarifeleri, kotaları ve ayrımcı lisans şartlarını kaldırmak neye
 HINT: Tinbergen'in ayrımı: kaldırmak mı, kurmak mı?
 EX: **Doğru cevap:** negatif entegrasyon.
 Ortak kural ve kurum kurmak (gümrük idaresi, rekabet kuralları) pozitif entegrasyon.
+**Diğer şıklar neden yanlış?** Pozitif entegrasyon ortak kural ve kurum **kurmak**; uyumlaştırma ve karşılıklı tanıma pozitif entegrasyonun yöntemleri.
 
 ## Q
 EN: Under GATT Article XXIV, is there a universally agreed threshold (such as 90%) for "substantially all trade"?
@@ -474,6 +504,7 @@ TR: Madde XXIV'teki "esasen tamamı" için evrensel bir eşik (%90 gibi) var mı
 HINT: Ders notu bunu özellikle vurguluyor.
 EX: **Doğru cevap:** Hayır.
 Ayrıca geçiş süresi ancak istisnaen 10 yılı aşabilir.
+**Diğer şıklar neden yanlış?** %90, %100 ve %50 eşikleri WTO hukukunda üzerinde anlaşılmış değil; ders notu "evrensel %90 eşiği yok" diyor.
 
 ## GEN integType
 
@@ -526,6 +557,7 @@ TR: Ticaret saptırma ne zaman olur?
 HINT: Verimli dışarıdaki → pahalı ortak.
 EX: **Doğru cevap:** tercih yüzünden alım verimli dışarıdaki üreticiden pahalı ortağa kayar.
 Pahalı yurt içi üretimin yerini ucuz ithalatın alması ticaret yaratmadır.
+**Diğer şıklar neden yanlış?** Pahalı yurt içi üretimin yerini ucuz ithalatın alması ticaret **yaratma**; herkese eşit indirim MFN serbestleşmesi; taşıma maliyeti entegrasyonla ilgili değil.
 
 ## Q
 EN: Costs: domestic 140, partner 110, outsider 100; a 20% MFN tariff applies to foreign suppliers. After an RTA removes the tariff on the partner, what happens to national welfare?
@@ -537,6 +569,8 @@ TR: Maliyetler 140, 110, 100; %20 tarife. Ortağın tarifesi kalkınca ulusal re
 HINT: Tüketici +10, tarife geliri −20.
 EX: **Doğru cevap:** 10 düşer.
 Önce dışarıdaki 120'ye satıyordu (devlet 20 alıyordu). Sonra ortak 110: tüketici 10 kazanır, devlet 20 kaybeder. Ticaret saptırma.
+**Adım adım:** önce dışarıdaki ülke $100\times1.2 = 120$'ye satıyor, devlet 20 tarife alıyor. Sonra ortak tarifesiz 110. Tüketici $120 - 110 = 10$ kazanır, devlet 20 kaybeder: $10 - 20 = -10$.
+**Diğer şıklar neden yanlış?** "+10" yalnızca tüketici kazancı (tarife kaybını unutur); "+30" iki tutarı toplar; "değişmez" alımın kaydığını görmez.
 
 ## Q
 EN: Use the textbook example to explain why lower consumer prices need not raise national welfare:
@@ -548,6 +582,7 @@ TR: Tüketici fiyatının düşmesi neden ulusal refahı artırmayabilir?
 HINT: Ders notunun 3. kendini sınama görevi.
 EX: **Doğru cevap:** devlet tarife gelirini kaybeder ve alım daha pahalı üreticiye kayar.
 Tüketicinin kazancı (10), kaybedilen tarife gelirinden (20) küçük.
+**Diğer şıklar neden yanlış?** Tüketiciler kazanır (10); tarife geliri **düşer** (20 kaybedilir); yurt içi üreticiler zaten üretmiyordu (140 en pahalı).
 
 ## Q
 EN: The "spaghetti bowl" problem refers to:
@@ -559,6 +594,7 @@ TR: "Spagetti kâsesi" sorunu nedir?
 HINT: Engel (stumbling block) argümanı.
 EX: **Doğru cevap:** üst üste binen menşe kurallarının uyum maliyeti.
 Kümülasyon ve basit kurallar bu maliyeti azaltabilir.
+**Diğer şıklar neden yanlış?** Doha'nın tıkanması, tek bir gümrük birliğindeki saptırma ve Temyiz Organı krizi ayrı konular; spagetti kâsesi üst üste binen menşe kurallarının maliyeti.
 
 ## Q
 EN: Which design feature would make an RTA more compatible with multilateral cooperation?
@@ -570,6 +606,7 @@ TR: Hangi tasarım RTA'yı çok taraflı işbirliğiyle daha uyumlu yapar?
 HINT: Ders notunun son kendini sınama sorusu.
 EX: **Doğru cevap:** kümülasyonlu basit menşe kuralları ve tercih marjlarını küçülten MFN serbestleşmesi.
 Bildirim de denetimi iyileştirir.
+**Diğer şıklar neden yanlış?** Yüksek dış tarife saptırmayı büyütür; karmaşık menşe kuralları spagetti kâsesini büyütür; sektörleri dışlamak Madde XXIV'teki "esasen tamamı" koşuluna aykırı.
 
 ## Q
 EN: Which statement about the evidence on GATT/WTO membership is correct?
@@ -581,6 +618,7 @@ TR: GATT/WTO üyeliğinin etkisine dair kanıt hakkında hangisi doğru?
 HINT: Sonuç araştırma tasarımına bağlı.
 EX: **Doğru cevap:** Rose zayıf etki, Subramanian–Wei güçlü ama eşitsiz etki buldu.
 Ossa: işbirliğinden vazgeçmenin maliyeti büyük.
+**Diğer şıklar neden yanlış?** Çalışmalar aynı sonucu bulmuyor: biri zayıf, biri güçlü ama eşitsiz etki; Ossa işbirliğinden vazgeçmenin maliyetini **büyük** buldu.
 
 ## Q
 EN: APEC is best described as:
@@ -592,6 +630,7 @@ TR: APEC en iyi nasıl tanımlanır?
 HINT: Ders notundaki bölgeler tablosunun notu.
 EX: **Doğru cevap:** bir işbirliği forumu, STA değil.
 Afrika Birliği ve Arap Birliği de daha geniş örgütler.
+**Diğer şıklar neden yanlış?** APEC ortak dış tarife, ortak para ya da serbest ticaret anlaşması değil; ders notu bunu ayrıca vurguluyor.
 
 ## GEN tradeDiv
 `);

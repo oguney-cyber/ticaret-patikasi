@@ -60,6 +60,7 @@ TR: Hangisi Bölüm 1'deki dünya ticareti gerçeklerinden biri?
 HINT: Avrupa içi + ABD ≈ dörtte bir.
 EX: **Doğru cevap:** ticaretin büyük kısmı sanayi ülkeleri arasında.
 Öteki şıklar ters: ticaretin çoğu yüksek işlenmiş mallar; Afrika %2; küçük ülkelerin oranı yüksek.
+**Diğer şıklar neden yanlış?** Ticaretin çoğu yüksek işlenmiş mallarda (ham madde değil); Afrika %2 (beşte bir değil); en yüksek oran küçük ülkelerde (büyükler değil).
 
 ## Q
 SRC: Vize 2025 · Soru 1
@@ -72,6 +73,7 @@ TR: Dünya ticareti hakkında hangisi YANLIŞ?
 HINT: Birinci altın çağ.
 EX: **Doğru cevap:** "küreselleşme yeni" yanlış.
 Birinci Dünya Savaşı öncesinde ticaret ve finansal entegrasyon çok güçlüydü; sanayi ülkeleri 1913 düzeyine 1970'lerde döndü.
+**Diğer şıklar neden yanlış?** Öteki üçü doğru gerçekler: konteyner ikinci altın çağın nedeni, benzer ülkeler çeşit ticareti yapar, dış dengeyi makro koşullar (tasarruf) belirler.
 
 ## Q
 SRC: Vize 2025 · Soru 2
@@ -84,6 +86,9 @@ TR: A: 10 buğday ya da 20 çelik; B: 15 buğday ya da 10 çelik. Hangi ülke ha
 HINT: Her malda aynı kaynakla kim daha çok üretiyor?
 EX: **Doğru cevap:** buğdayda B (15 > 10), çelikte A (20 > 10).
 Mutlak üstünlük fırsat maliyetine değil, aynı kaynakla üretilen miktara bakar.
+**Diğer şıklar neden yanlış?**
+• "A buğdayda, B çelikte": sayılar ters okunmuş (buğdayda 15 > 10, çelikte 20 > 10).
+• "A ikisinde de" / "B ikisinde de": her ülke bir malda daha çok üretiyor.
 
 ## Q
 SRC: Vize 2025 · Soru 3a
@@ -96,6 +101,8 @@ TR: Nova'da 1 akıllı telefonun fırsat maliyeti nedir?
 HINT: 8 ÷ 4.
 EX: **Doğru cevap:** 2 tekstil.
 Bir işçi 4 telefon ya da 8 tekstil üretir: 1 telefon = 8/4 = 2 tekstil. Terra'da 1 telefon = ½ tekstil.
+**Adım adım:** Nova'da bir işçi ya 4 telefon ya 8 tekstil. 4 telefon için 8 tekstilden vazgeçilir; 1 telefon için $8 \div 4 = 2$ tekstil.
+**Diğer şıklar neden yanlış?** ½ tekstil Terra'nın telefon maliyeti; 4 tekstil ters bölme yerine çıkarma ($8 - 4$); ½ telefon tekstilin maliyeti (birim yanlış).
 
 ## Q
 SRC: Vize 2025 · Soru 3a
@@ -108,6 +115,8 @@ TR: Terra'da 1 tekstilin fırsat maliyeti nedir?
 HINT: Bir işçi 2 telefon ya da 1 tekstil.
 EX: **Doğru cevap:** 2 akıllı telefon.
 Nova'da 1 tekstil = 4/8 = ½ telefon. Tekstil Nova'da ucuz.
+**Adım adım:** Terra'da bir işçi ya 2 telefon ya 1 tekstil. 1 tekstil için 2 telefondan vazgeçilir.
+**Diğer şıklar neden yanlış?** ½ telefon Nova'nın tekstil maliyeti; 1 telefon hiçbir orandan çıkmaz; 2 tekstil birim yanlış (tekstilin maliyeti telefon cinsinden sorulur).
 
 ## Q
 SRC: Vize 2025 · Soru 3b
@@ -120,6 +129,10 @@ TR: Hangi ülke hangi malda karşılaştırmalı üstün?
 HINT: Telefonun maliyeti: Nova 2, Terra ½.
 EX: **Doğru cevap:** telefonda Terra, tekstilde Nova.
 Nova iki malda da mutlak üstün; bu tuzak şık. Karşılaştırmalı üstünlük fırsat maliyetiyle belirlenir.
+**Diğer şıklar neden yanlış?**
+• "Nova telefonda": Nova'da telefon 2 tekstil, Terra'da ½; Terra'da ucuz.
+• "Nova ikisinde de": mutlak üstünlükle karıştırılmış.
+• "Hiçbiri": fırsat maliyetleri farklı, ticaret karşılıklı yararlı.
 
 ## Q
 SRC: Vize 2025 · Soru 4
@@ -132,6 +145,7 @@ TR: Home 100 buğday üretiyor, 60 ihraç, 40 kumaş ithal ediyor. Tüketim nokt
 HINT: B'den 60 sola, 40 yukarı.
 EX: **Doğru cevap:** (40 buğday, 40 kumaş).
 $100 - 60 = 40$ buğday; 40 ithal kumaş. C, PPF'nin dışında ve daha yüksek kayıtsızlık eğrisi U₂ üzerinde.
+**Diğer şıklar neden yanlış?** (60, 40) ihraç edilen 60'ı tüketim sanar; (100, 40) ihracatı düşmeyi unutur; (40, 25) eski kumaş tüketimi.
 
 ## Q
 SRC: Vize 2025 · Soru 4e
@@ -144,6 +158,7 @@ TR: Ticaretle buğdayın nispi fiyatı $P_W/P_C$ kaçtır?
 HINT: Fiyat doğrusunun eğiminin mutlak değeri.
 EX: **Doğru cevap:** 2/3.
 1 buğday 2/3 kumaş eder: $60\times\tfrac23 = 40$. Otarşideki fiyat PPF eğimi ½ idi; 3/2 kumaşın nispi fiyatı.
+**Diğer şıklar neden yanlış?** 3/2 kumaşın nispi fiyatı; ½ otarşideki fiyat; 2 kumaşın otarşi fiyatı.
 
 ## Q
 SRC: Vize 2025 · Soru 4
@@ -156,6 +171,7 @@ TR: U₁ ve U₂ nasıl karşılaştırılır?
 HINT: C, PPF'nin dışında.
 EX: **Doğru cevap:** U₂ daha yüksek: ticaretten kazanç.
 Ticaret, PPF'nin dışındaki ulaşılamaz bir sepeti mümkün kıldı.
+**Diğer şıklar neden yanlış?** U₁ daha alçak; farklı eğriler farklı fayda; U₂ PPF'nin dışından geçer (C dışarıda).
 
 ## Q
 SRC: Vize 2025 · Soru 4
@@ -168,6 +184,8 @@ TR: PPF 50 kumaş – 100 buğday. "40 buğday, 25 kumaş" noktası nerede olurd
 HINT: Cloth = 50 − wheat/2.
 EX: **Doğru cevap:** PPF'nin içinde.
 $50 - 40/2 = 30 > 25$. Kitaptaki otarşi noktası (50 buğday, 25 kumaş) PPF üzerinde: $50 - 50/2 = 25$.
+**Diğer şıklar neden yanlış?** PPF üzerinde olsaydı kumaş 30 olmalıydı; 25 < 30, dışarıda değil içeride; fiyat doğrusunun kesişimi 66.7 kumaş.
+
 
 --- LESSON u7b | V2 | Sorular 5–6: bolluk ve göç
 FX: PPF hangi mala doğru yayvansa :: o malda yoğun kullanılan faktörde bol
@@ -203,6 +221,7 @@ TR: Hangi ülke görece sermaye bol?
 HINT: Sermaye yoğun mala doğru yayvan PPF.
 EX: **Doğru cevap: Home.**
 Sermaye bol ülkenin PPF'si sermaye yoğun mala doğru yayvandır. Foreign emek bol.
+**Diğer şıklar neden yanlış?** Foreign emek bol (ayakkabıya doğru yayvan); PPF şekilleri farklı, eşit değil; yoğunluklar verildiği için belirlenebilir.
 
 ## Q
 SRC: Vize 2025 · Soru 5
@@ -215,6 +234,7 @@ TR: Home'un otarşi fiyat doğrusu Foreign'ınkinden yatık. Bu ne demek?
 HINT: Eğim = $P_C/P_S$.
 EX: **Doğru cevap:** otarşide bilgisayar Home'da daha ucuz.
 Bu yüzden Home bilgisayar ihraç eder (HO teoremi).
+**Diğer şıklar neden yanlış?** Yatık doğru düşük fiyat demek (yüksek değil); bilgisayar Home'da ucuz olduğu için Home bilgisayarda karşılaştırmalı üstün ve bilgisayar **ihraç** eder.
 
 ## Q
 SRC: Vize 2025 · Soru 6a
@@ -227,6 +247,7 @@ TR: Kısa dönemde büyük göç. Reel ücret ne olur?
 HINT: Fiyatlar sabit, ücret düşüyor.
 EX: **Doğru cevap:** düşer.
 Küçük ekonomide mal fiyatları dünya fiyatı; nominal ücret düştüğü için reel ücret iki mal cinsinden de düşer. Belirsizlik, mal fiyatı değiştiğinde ortaya çıkıyordu.
+**Diğer şıklar neden yanlış?** Göç ücreti artırmaz; uzun dönemde değişmezdi ama soru kısa dönem; belirsizlik mal fiyatı değişiminde, burada fiyatlar sabit ve ücret düşüyor.
 
 ## Q
 SRC: Vize 2025 · Soru 6c
@@ -239,6 +260,7 @@ TR: Aynı soruda kısa dönemde sektörlerin çıktısı ne olur?
 HINT: Ek emek iki sektöre bölünür.
 EX: **Doğru cevap:** ikisi de artar.
 Uzun dönemde ise Rybczynski: emek yoğun sektör büyür, öteki küçülür.
+**Diğer şıklar neden yanlış?** "Biri artar öteki azalır" uzun dönem Rybczynski sonucu; "değişmez" yanlış çünkü işçi arttı.
 
 ## Q
 SRC: Vize 2025 · Soru 6b
@@ -251,6 +273,8 @@ TR: Kısa dönemde reel olarak kim kaybeder?
 HINT: Rantlar artıyor.
 EX: **Doğru cevap:** emek.
 Sermaye ve toprak sahipleri kazanır; bu yüzden sık sık daha açık sınırları desteklerler.
+**Diğer şıklar neden yanlış?** Sermaye ve toprak sahipleri **kazanır** (makine ve dönüm başına daha çok işçi); kaybeden ücreti düşen işçiler.
+
 
 --- LESSON u7c | V3 | Soru 7: 20 boşluk
 FX: Ricardo: teknoloji farkı :: HO: faktör donatımı farkı
@@ -295,6 +319,7 @@ TR: Ricardo modelinde farklılık dışsal ___ farklarından gelir. Her ülke bi
 HINT: Ricardo = teknoloji.
 EX: **Doğru cevap:** teknoloji (emek verimliliği); fırsat maliyeti.
 Her ülke bir malda mutlaka karşılaştırmalı üstündür ama mutlak üstün olmayabilir.
+**Diğer şıklar neden yanlış?** Faktör donatımı HO'nun nedeni; tarife ve zevkler Ricardo'nun kaynağı değil.
 
 ## Q
 SRC: Vize 2025 · Soru 7 (5)
@@ -307,6 +332,7 @@ TR: Bir ülke iki malda da daha az verimli olsa bile ticaretten ___ vardır.
 HINT: Ricardo'nun ikinci dersi.
 EX: **Doğru cevap:** gains (kazançlar).
 Tüketim imkânları PPF'nin dışına çıkar; uzmanlaşma maliyetleri düşürür.
+**Diğer şıklar neden yanlış?** Ricardo'nun ana mesajı kazanç; "kayıp", "etkisiz" ve "tarife" metne uymaz.
 
 ## Q
 SRC: Vize 2025 · Soru 7 (7–9)
@@ -319,6 +345,7 @@ TR: Emek-tek-faktör varsayımını ___ modeliyle gevşetiriz; toprak tarıma, s
 HINT: Bölüm 3.
 EX: **Doğru cevap:** specific-factors; labor.
 Boşluk 9 da "specific-factors": kısa dönem modeli.
+**Diğer şıklar neden yanlış?** HO'da sermaye iki sektörde de kullanılır (özgül değil); Ricardo tek faktörlü; "gravity" bu derste işlenmedi.
 
 ## Q
 SRC: Vize 2025 · Soru 7 (10)
@@ -331,6 +358,7 @@ TR: HO uzun dönem modeli çünkü bütün ___ sektörler arasında hareket edeb
 HINT: Emek ve sermaye.
 EX: **Doğru cevap:** factors (of production).
 Özgül faktörler modeli kısa dönem: sermaye ve toprak taşınamaz.
+**Diğer şıklar neden yanlış?** Tüketiciler, ülkeler ya da mallar değil; sektörler arasında yer değiştiren **faktörler** (emek ve sermaye).
 
 ## Q
 SRC: Vize 2025 · Soru 7 (11–13)
@@ -343,6 +371,7 @@ TR: HO'da ticaret ___ farkına dayanır, Ricardo'daki gibi ___ farkına değil. 
 HINT: Kaynaklar ve teknoloji.
 EX: **Doğru cevap:** factor endowments; technology; land.
 HO'nun 5. varsayımı: teknoloji iki ülkede aynı.
+**Diğer şıklar neden yanlış?** Sıralar karışık: HO = donatım, Ricardo = teknoloji; üçüncü boşluk faktör listesi (emek, **toprak**, sermaye).
 
 ## Q
 SRC: Vize 2025 · Soru 7 (14–15)
@@ -355,6 +384,7 @@ TR: HO, ticaretle nispi fiyatı artan ___ malında yoğun faktör için kazanç 
 HINT: Fiyat → faktör getirisi.
 EX: **Doğru cevap:** export; Stolper–Samuelson.
 Rybczynski donatım → çıktı ilişkisi.
+**Diğer şıklar neden yanlış?** İthal malının fiyatı düşer, o malda yoğun faktör **kaybeder**; Rybczynski fiyat değil donatım teoremi.
 
 ## Q
 SRC: Vize 2025 · Soru 7 (16–17)
@@ -367,6 +397,7 @@ TR: Rybczynski: bir faktör artınca o faktörü yoğun kullanan sektörün çı
 HINT: Uzun dönemde göç: ayakkabı ↑, bilgisayar ↓.
 EX: **Doğru cevap:** increase; decrease.
 "İkisi de artar" kısa dönem (özgül faktörler) sonucu.
+**Diğer şıklar neden yanlış?** Ters sıra öteki sektörün durumu; "ikisi de artar" kısa dönem; "değişmez" faktör fiyatı duyarsızlığıyla karıştırılmış (fiyatlar değişmez, çıktılar değişir).
 
 ## Q
 SRC: Vize 2025 · Soru 7 (18–20)
@@ -379,6 +410,7 @@ TR: B'den sermaye çıkıyor. Faktör fiyatları ___, çıktı ___ yoğun sektö
 HINT: Faktör fiyatı duyarsızlığı ve Rybczynski.
 EX: **Doğru cevap:** remain unchanged; labor; capital.
 Sermaye azalınca sermaye yoğun sektör küçülür, emek yoğun büyür. Hocanın 20. boşluk için beklediği cevap "capital".
+**Diğer şıklar neden yanlış?** Uzun dönemde faktör fiyatları değişmez (düşmez, artmaz); sermaye azalınca **sermaye** yoğun sektör küçülür, çıktı emek yoğuna kayar.
 
 ## Q
 SRC: Vize 2025 · Soru 7 (1–2)
@@ -391,4 +423,6 @@ TR: Taşıma maliyetini düşürüp ticaret patlamasını mümkün kılan ___; t
 HINT: 1956 ve "value".
 EX: **Doğru cevap:** containerization; global value chains.
 Tedarik zinciri lojistiğe, değer zinciri katma değer, kâr ve güce odaklanır.
+**Diğer şıklar neden yanlış?** Buharlı gemi ve demiryolu **birinci** altın çağın taşıma gelişmeleri; değer dağılımını vurgulayan kavram değer zinciri (tedarik zinciri lojistik, ikili denge ve gümrük birliği başka konular).
+
 `);
